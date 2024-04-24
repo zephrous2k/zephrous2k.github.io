@@ -6,8 +6,6 @@ categories: [Hello World]
 tags: [Hello World, Zephrous, Blog]
 ---
 
-![Hello World!](/assets/img/blog1/hello_beautiful_world.jpg)
-
 # Welcome to my CTF Blog!
 
 This is my first blog on this site and I mainly use it for CTF writeups. 
