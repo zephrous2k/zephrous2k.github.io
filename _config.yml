@@ -172,7 +172,7 @@ defaults:
     values:
       swcache: true
   - scope:
-      path: assets/images/favicons
+      path: assets/img/favicons
     values:
       swcache: true
 

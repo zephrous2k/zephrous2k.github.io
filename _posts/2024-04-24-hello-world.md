@@ -1,7 +1,7 @@
 ---
 title: "Hello World!"
 date: 2024-04-24 20:39:00 +0800
-image: /assets/images/blog1/hello_beautiful_world.jpg
+image: /assets/img/blog1/hello_beautiful_world.jpg
 categories: [Hello World]
 tags: [Hello World, Zephrous, Blog]
 ---
