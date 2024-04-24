@@ -6,8 +6,6 @@ categories: [Schrödinger's Cat 2]
 tags: [Schrödinger's Cat 2, Writeup, CTF, Blog]
 ---
 
-# Schrödinger's Cat 2
-
 ![Challenge Details](/assets/images/blog2/challenge.png)
 
 One of my favorite CTF challenges in SKRCTF and I am so happy that I could solve this fun challenge. Before that, I suggest you to do Schrödinger's Cat 1 first to get an idea of this 2nd challenge and my solution.
