@@ -32,4 +32,4 @@ Doing of all that, you just need to convert the binary to ASCII and you will get
 
 
 
-### Flag: SKR{R1gh7_or_Wr0nG}
+** Flag: SKR{R1gh7_or_Wr0nG} **
