@@ -19,7 +19,6 @@ toc: false
 
 ### Check Out My Personal Blogs 💻
 - <a href="https://z3phr0us.blogspot.com">https://z3phr0us.blogspot.com</a>🌐
-- https://zephrous2k.github.io (Coming Soon)
 <br>
 
 ### Connect with Me 🔗:

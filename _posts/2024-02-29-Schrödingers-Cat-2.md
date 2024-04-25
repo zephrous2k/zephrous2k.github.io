@@ -16,7 +16,7 @@ How do I find out the answer/flag? It is actually simple but quite a lengthy pro
 
 At the beginning, I just play around this guessing game by entering 1 or 2 as you can see in the terminal screenshot below.
 
-Of course, initially I thought it is randomized until I restarted the game and tried countless times like a noob. Only to realize it is a fixed question and answer with that specific pattern. And I also realized that since the result is either 1 or 2 (alive or dead) can be interpreted as true or false in boolean and binary. So I come up with this idea 0 for Wrong (Dead) and 1 for Right (Alive)
+Of course, initially I thought it is randomized until I restarted the game and tried countless times like a noob. Only to realize it is a fixed question and answer with that specific pattern. And I also realized that since the result is either 1 or 2 (alive or dead) can be interpreted as true or false in boolean and binary. So I come up with this idea: 0 for Wrong (Dead) and 1 for Right (Alive)
 
 From that information, we can find out SKR in binary format which are 01010011 01001011 01010010 01111011 01111101.
 
