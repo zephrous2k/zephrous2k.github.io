@@ -9,4 +9,4 @@ tags: [Hello World, Zephrous, Blog]
 # Welcome to my CTF Blog!
 
 This is my first blog on this site and I mainly use it for CTF writeups. 
-Feel free to check out my other sites at About Me!
+Feel free to check out my other sites at About Me. 
