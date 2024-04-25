@@ -14,11 +14,11 @@ toc: false
 <br>
 
 ### 📫 My Personal Portfolio Website. Feel free to visit:
-- https://danielpohtingfong.netlify.app 💬
+- <a href="https://danielpohtingfong.netlify.app">https://danielpohtingfong.netlify.app</a>💬
 <br>
 
 ### Check Out My Personal Blogs 💻
-- https://z3phr0us.blogspot.com 🌐
+- <a href="https://z3phr0us.blogspot.com">https://z3phr0us.blogspot.com</a>🌐
 - https://zephrous2k.github.io (Coming Soon)
 <br>
 
@@ -28,5 +28,5 @@ toc: false
 </p>
 
 ### Check Out myst3r10us's website 💻
-- https://myst3r10us.vercel.app 🌐
+- <a href="https://myst3r10us.vercel.app">https://myst3r10us.vercel.app</a>🌐
 <br>

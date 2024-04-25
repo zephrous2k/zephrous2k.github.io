@@ -10,7 +10,7 @@ tags: [Schrödinger's Cat 2, Writeup, CTF, Blog]
 
 One of my favorite CTF challenges in SKRCTF and I am so happy that I could solve this fun challenge. Before that, I suggest you to do Schrödinger's Cat 1 first to get an idea of this 2nd challenge and my solution.
 
-Challenge Link: https://skrctf.me/challenges#Schr%C3%B6dinger's%20Cat
+Challenge Link: <a href="https://skrctf.me/challenges#Schr%C3%B6dinger's%20Cat">https://skrctf.me/challenges#Schr%C3%B6dinger's%20Cat</a>
 
 How do I find out the answer/flag? It is actually simple but quite a lengthy process. I will try my best to explain it in detail.
 
