@@ -6,11 +6,9 @@ order: 4
 toc: false
 ---
 
-# Hi. I am Daniel. Welcome To My Github Space! 🚀
+# Hi! •ᴗ• . My name is Zephrous. Welcome To My Github Space! 🚀
 
-
-## About Me •ᴗ•
-(ㅅ´ ˘ `) I am currently a university student studying Software Engineering. I am also an aspiring full-stack web developer and I am passionate about building websites & web development aspects. Besides that, I am a cybersecurity enthusiast. I have been participating numerous Capture-The-Flag (CTF) competitions since September 2023 when I started CTF. As for now, I am part of my CTF team, <a href="https://github.com/myst3r10us">@myst3r10us</a>. Current founder and owner as well. 🙎🏻‍♂️ 
+(ㅅ´ ˘ `) Hello. I am Daniel also known as Zephrous, currently a Final Year University Student studying Software Engineering. I am also an aspiring full-stack web developer and I am passionate about building websites & web development aspects. Besides that, I am a cybersecurity enthusiast. I have been participating numerous Capture-The-Flag (CTF) competitions since September 2023 when I started CTF. As for now, I am part of my CTF team, <a href="https://github.com/myst3r10us">@myst3r10us</a>. Current founder and owner as well. 🙎🏻‍♂️ 
 <br>
 
 ### 📫 My Personal Portfolio Website. Feel free to visit:
